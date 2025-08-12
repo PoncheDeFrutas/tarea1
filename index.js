@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 app.get('/info', (req, res) => {
   res.json({
     nombre: "Josue Guevara",
-    cancionFavorita: "EARFQUAKE"
+    albumFavorito: "IGOR"
   });
 });
 
