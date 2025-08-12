@@ -142,8 +142,9 @@ To github.com:PoncheDeFrutas/tarea1.git
  - [deleted]         hotfix
 ❯ gitkraken
 ~/proyects/tarea-api main
-```<img width="1355" height="655" alt="Captura de pantalla 2025-08-11 190550" src="https://github.com/user-attachments/assets/6ba72082-bb98-42e9-a8a3-5b4f4a527d16" />
-<img width="1365" height="650" alt="Captura de pantalla 2025-08-11 190905" src="https://github.com/user-attachments/assets/f1d00ff6-dcf7-4084-aa4f-f85f3c698c99" />
-<img width="1914" height="1076" alt="image" src="https://github.com/user-attachments/assets/cda0ef0b-fe8f-43e9-a6bf-b8bfd9d0099f" />
+```
+![](<Captura de pantalla 2025-08-11 190550.png>)
 
+![](<Captura de pantalla 2025-08-11 190905.png>)
 
+![](<Captura de pantalla 2025-08-11 191402.png>)
